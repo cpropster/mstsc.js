@@ -2,8 +2,7 @@
 	"name": "mstsc.js",
 	"author": "Sylvain Peyrefitte",
 	"version": "0.2.4",
-	"engines": 
-	[
+	"engines": [
 		"node = 0.10.x"
 	],
 	"description": "A Remote Desktop Protocol Client written in javascript",
